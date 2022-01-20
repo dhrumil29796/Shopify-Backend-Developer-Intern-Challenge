@@ -1,6 +1,15 @@
-# Shopify-Backend-Developer-Intern-Challenege
+# Shopify-Backend-Developer-Intern-Challenge
 
 Shopify Backend Developer Intern Challenge - Summer 2022
+
+## Application Features
+
+1. User can add products.
+2. User can list all added products.
+3. User can edit any of the added products.
+4. User can delete any of the added products.
+5. User can view any of the added products.
+6. User can export data of all the products to a downloadable CSV file.
 
 ## Getting Started with Create React App
 
